@@ -1,7 +1,7 @@
 # JavaScript Code Jam
 
 
-## Uppgiften_Gissa Numret
+## Uppgiften - JavaScript - Gissa numret
 
 
 ## Aylin Westin
